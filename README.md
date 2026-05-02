@@ -23,6 +23,7 @@ The goal is to eliminate the enemy Commander. You start with a single Commander 
   - `Del / Backspace`: Self-destruct selected units/buildings.
   - `+/- / Scroll`: Zoom in and out.
   - `Arrows / WASD`: Pan the camera.
+  - `Ctrl + Mouse Drag`: Change camera tilt (top-down to isometric).
 
 ## Units & Buildings
 
