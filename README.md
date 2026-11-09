@@ -10,12 +10,13 @@ rts101 is a minimal Real-Time Strategy (RTS) game inspired by *Total Annihilatio
 - **Features:** Fullscreen support, dynamic zoom/pan camera, minimal AI, and procedural terrain.
 
 ## Gameplay
-The goal is to eliminate the enemy Commander. You start with a single Commander who can build structures and produce units.
+The goal is to eliminate the enemy Commander. You start with a single Commander who can build structures and produce units. Here is a demo: https://www.youtube.com/watch?v=eQlmP191YWI 
+
 - **Economy:** Manage Metal and Energy. Build Solar Collectors for energy and Metal Extractors on deposits for metal.
 - **Build Range:** Structures must be placed within the Commander's build range.
 - **Production:** Factories produce units. Factories must be within the Commander's production range to operate.
 - **Controls:**
-  - `Left Click / Drag`: Select units/buildings.
+  - `Left Click / Drag`: Select units/buildings. 
   - `Right Click`: Move units, attack targets, or set rally points.
   - `Tab`: Quickly select the Commander.
   - `1-0 Keys`: Build structures (when Commander is selected) or queue units (when Factory is selected).
@@ -50,3 +51,9 @@ The goal is to eliminate the enemy Commander. You start with a single Commander 
 - **Bomber**: Heavy air-to-ground attack unit.
 - **Gunboat**: Standard naval combatant.
 - **Carrier**: Large naval vessel, strong against other ships.
+
+
+### TODO
+- **multiplayer**: add a lobby or simple p2p
+- **build power**: add or incorporate bp that was avoided initially to make the game faster
+- **host**: host the game somewhere and make ppl play
